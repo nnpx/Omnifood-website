@@ -63,7 +63,7 @@
 
 .btn-mobile-nav {
   border: none;
-  background-color: #fdf2e9;
+  background-color: inherit;
   cursor: pointer;
 
   display: none;
